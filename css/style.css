@@ -124,3 +124,10 @@ svg {
     
 }
 
+.fotologo {
+ 
+}
+
+.fotologo:hover{
+    transform: translate(5px, 10px);
+}
